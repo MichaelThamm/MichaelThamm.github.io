@@ -1,5 +1,7 @@
 # School Experience
 
+//[link name](link code repo)
+
 ## We Are uWinLoop
 
 3 years into university I found a team of inspired engineering students studying at University of Windsor, ON, Canada. As an electrical & computer engineering student, I was excited to connect with and learn from fellow engineering students from various other departments. We had a common goal; to qualify for the SpaceX-Hyperloop competition in California, USA and meet Elon Musk (the founder of the competition).
@@ -28,6 +30,7 @@ While competition was exhilirating and we put our city on the map, I was hungry 
 
 # Work Experience
 
+//[link name](link code repo)
 
 ## What Is Automated Construction?
 
@@ -46,3 +49,5 @@ The foundation of a successful project is its programming and this project harmo
 ## FARO BuildIT Metrology v2021
 
 # Side Projects
+
+//[link name](link code repo)
