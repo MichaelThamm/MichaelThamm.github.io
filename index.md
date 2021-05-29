@@ -1,16 +1,17 @@
 # School Experience
 
-//[link name](link code repo)
-
 ## We Are uWinLoop [website](https://www.uwinloop.ca/)
+
+[PDB]()
+[FDB]()
+[videos]()
+[pictures]()
 
 3 years into university I found a team of inspired engineering students studying at University of Windsor, ON, Canada. As an electrical & computer engineering student, I was excited to connect with fellow students from various departments. We had a common goal; to qualify for the **SpaceX-Hyperloop** competition in LA, California and meet **Elon Musk** (the founder of the competition).
 
 ### Journey To Top 51
 
 Many countless working hours passed by which led to the rise of a **magnetic levitation propulsion system**, technically named Double Sided Linear Induction Motor. Leading this team and working alongside other likeminded, junior engineers enabled us to convince the competition admins that our design had potential, granting the team access to the top 51 ranking and one step closer to our goal.
-
-//insert basic technical jargon here
 
 ### Journey To Top 21
 
@@ -27,16 +28,11 @@ Top 51 reuired us to submit a preliminary design briefing (PDB) and now it was t
 
 The final step before acceptance into the top 21 required a 2 hour interview/presentation with **SpaceX engineers**. The team was building confidence and it was becoming clear that we were no longer just a small-town, first year team.
 
-//link to repo here that includes PDB and FDB
-//insert a video from testing the LIM motors
-
 ## California
 
 LA, California provided 2 weeks of stress while grinding out hours in our AirBnB, working on last minute pod fixes. I am truly grateful to share this competition with teams across the world that travelled from **India, Germany, Canada, USA, Switzerland, Spain, Netherlands** to name a few. We did not place top 5 but we got to shake hands with Elon Musk and that is something I am truly grateful for.
 
-//insert competition pictures here
-
-## Journey To MaSc [repo link](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization)
+## Journey To MaSc [repo](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization)
 
 While competition was exhilirating and we put our city on the map, I was hungry for more. The rules state that each team member must be a student of a registered university. Realizing that I may never meet my idol again, the inevitibility of persuing a masters degree in magnetic induction propulsion systems was apparent. As I am now 1.5 years into my masters and counting, I sit at my desk waiting for the pandemic to ease and Elon to announce competition again. The true potential of a **genetically optimized induction motor hybrid modelling software** written in **Python** has yet to be experienced by uWinLoop's competitors as we cruise into the opportunity to meet Elon once again. 
 
@@ -66,5 +62,7 @@ Due to the nature of construction at scale there was an apparent need for GD&T (
 
 # Side Projects
 
-## 
-//[link name](link code repo)
+## Python Pathfinding Algorithm [repo](https://github.com/MichaelThamm/Python-Pathfinding)
+
+## Zombies Game [repo]()
+
