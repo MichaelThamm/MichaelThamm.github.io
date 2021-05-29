@@ -1,11 +1,14 @@
+Resume
+
+[resume]()
+
 # School Experience
 
 ## We Are uWinLoop [website](https://www.uwinloop.ca/)
 
-[PDB]()
-[FDB]()
-[videos]()
-[pictures]()
+[FDP](https://drive.google.com/drive/u/0/folders/1QOjv-9z_CLqZy9dkK-Fmb5WreqSMteu0)
+[Videos]()
+![Pictures](url) 
 
 3 years into university I found a team of inspired engineering students studying at University of Windsor, ON, Canada. As an electrical & computer engineering student, I was excited to connect with fellow students from various departments. We had a common goal; to qualify for the **SpaceX-Hyperloop** competition in LA, California and meet **Elon Musk** (the founder of the competition).
 
@@ -15,7 +18,7 @@ Many countless working hours passed by which led to the rise of a **magnetic lev
 
 ### Journey To Top 21
 
-Top 51 reuired us to submit a preliminary design briefing (PDB) and now it was time to produce a final design briefing (FDB). The FDB included experimental results and simulations from subsytems such as:
+Top 51 reuired us to submit a preliminary design briefing (PDB) and now it was time to produce a final design package (FDP). The FDP included experimental results and simulations from subsytems such as:
 
 * Shell
 * Frame
@@ -23,7 +26,7 @@ Top 51 reuired us to submit a preliminary design briefing (PDB) and now it was t
 * Propulsion
 * Control System
 * Inverter
-* Buspension
+* Suspension
 * Braking 
 
 The final step before acceptance into the top 21 required a 2 hour interview/presentation with **SpaceX engineers**. The team was building confidence and it was becoming clear that we were no longer just a small-town, first year team.
