@@ -38,19 +38,17 @@ LA, California provided 2 weeks of stress while grinding out hours in our AirBnB
 
 //insert competition pictures here
 
-## Journey To MaSc
+## Journey To MaSc [repo link](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization)
 
 While competition was exhilirating and we put our city on the map, I was hungry for more. The rules state that each team member must be a student of a registered university. Realizing that I may never meet my idol again, the inevitibility of persuing a masters degree in magnetic induction propulsion systems was apparent. As I am now 1.5 years into my masters and counting, I sit at my desk waiting for the pandemic to ease and Elon to announce competition again. The true potential of a **genetically optimized induction motor hybrid modelling software** written in **Python** has yet to be experienced by uWinLoop's competitors as we cruise into the opportunity to meet Elon once again. 
 
-Due to intellectual property I cannot share the full contents of my program. However, I still want to highlight my coding ability produced in this project so a repo link for the project can be found here:
-
-[repo link](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization)
+Due to intellectual property I cannot share the full contents of my program. However, I still want to highlight my coding ability produced in this project so a repo link for the project can be found at the header.
 
 # Work Experience
 
 //[link name](link code repo)
 
-## What Is Automated Construction?
+## What Is Automated Construction? 
 
 **“We at Brave are committed to continue to work with our partners and offer innovative solutions through automation”. [1]**
 
