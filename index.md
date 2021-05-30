@@ -6,7 +6,7 @@ Resume
 
 ## We Are uWinLoop [website](https://www.uwinloop.ca/)
 
-![Pictures](https://github.com/MichaelThamm/SpaceX-HyperloopCompetition/blob/gh-pages/Pics.rar)
+[Pictures](https://github.com/MichaelThamm/SpaceX-HyperloopCompetition/blob/gh-pages/Pics.rar)
 
 3 years into university I found a team of inspired engineering students studying at University of Windsor, ON, Canada. As an electrical & computer engineering student, I was excited to connect with fellow students from various departments. We had a common goal; to qualify for the **SpaceX-Hyperloop** competition in LA, California and meet **Elon Musk** (the founder of the competition).
 
