@@ -1,6 +1,6 @@
 Resume
 
-[resume](https://github.com/MichaelThamm/MichaelThamm.github.io/blob/main/Resume_MikeThamm0524.docx)
+[resume](https://github.com/MichaelThamm/MichaelThamm.github.io/blob/main/Resume_MikeThamm.docx)
 
 # School Experience
 
