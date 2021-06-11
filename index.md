@@ -1,6 +1,8 @@
-# [Resume Link](https://github.com/MichaelThamm/MichaelThamm.github.io/blob/main/Resume_MikeThamm.docx)
+# [Resume Link](https://github.com/MichaelThamm/MichaelThamm.github.io/blob/305c9a76e4e17ed7f95d45416e7c3c2cf64183e7/Resume_MikeThamm.docx)
 
-# School Experience
+# School Experience - Work Experience should come fist
+
+## CHARGE LABS [website](https://chargelabs.ca/)
 
 ## We Are uWinLoop [website](https://www.uwinloop.ca/)
 
