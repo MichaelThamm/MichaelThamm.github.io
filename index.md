@@ -38,8 +38,6 @@ Due to the nature of construction at scale there was an apparent need for GD&T (
 
 ## CHARGE LABS [Website Link](https://chargelabs.ca/)
 
-**** I SHOULD HAVE A THEM THAT HAS Time spent working on each experience or a quick description of what I learned in paragraph or blog form *****
-
 _"The CHARGE Lab, under the leadership of its founder Professor Narayan C. Kar, who is a Tier 1 Canada Research Chair in Electrified Vehicles, is an internationally recognized R&D, component and system design and test centre that fosters cross-disciplinary research collaboration among materials, mechanical, electrical and software engineers."_
 
 ## We Are uWinLoop [Website Link](https://www.uwinloop.ca/)
