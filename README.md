@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichaelThamm
+- 👋 Hi, I’m Mike
 - 👀 I’m interested in working with like-minded inspirationals who are willing to embrace the chaos
 - 🌱 I’m currently learning Python, JavaScript, 3D printing, Machine learning, CAD, EV propulsion, Robotics & PLC
 - 💞️ I’m looking to collaborate on web development and optimization algorithms
