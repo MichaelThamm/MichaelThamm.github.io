@@ -36,9 +36,17 @@ Due to the nature of construction at scale there was an apparent need for GD&T (
 
 # School Experience
 
-## CHARGE LABS [Website Link](https://chargelabs.ca/)
+## Charge Labs [Website Link](https://chargelabs.ca/)
 
 _"The CHARGE Lab, under the leadership of its founder Professor Narayan C. Kar, who is a Tier 1 Canada Research Chair in Electrified Vehicles, is an internationally recognized R&D, component and system design and test centre that fosters cross-disciplinary research collaboration among materials, mechanical, electrical and software engineers."_
+
+I am an active member of the research team at Charge Labs, pushing the envelope of EV research. My work includes evolutionairy algorithms, induction motor design, and motor performance testing. My contributions can be found 
+
+### Journey To MaSc [Repo Link](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization)
+
+_Due to intellectual property I cannot share the full contents of my program. However, I still want to highlight my coding ability produced in this project so a repo link for the project can be found at the header._
+
+The true potential of a **genetically optimized induction motor hybrid modelling software** written in **Python** has yet to be experienced in the motor research community.
 
 ## We Are uWinLoop [Website Link](https://www.uwinloop.ca/)
 
@@ -68,12 +76,6 @@ The final step before acceptance into the top 21 required a 2 hour interview/pre
 ## California
 
 LA, California provided 2 weeks of stress while grinding out hours in our AirBnB, working on last minute pod fixes. I am truly grateful to share this competition with teams across the world that travelled from **India, Germany, Canada, USA, Switzerland, Spain, Netherlands** to name a few. We did not place top 5 but we got to shake hands with Elon Musk and that is something I am truly grateful for.
-
-## Journey To MaSc [Repo Link](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization)
-
-_Due to intellectual property I cannot share the full contents of my program. However, I still want to highlight my coding ability produced in this project so a repo link for the project can be found at the header._
-
-While competition was exhilirating and we put our city on the map, I was hungry for more. The rules state that each team member must be a student of a registered university. Realizing that I may never meet my idol again, the inevitibility of persuing a masters degree in magnetic induction propulsion systems was apparent. As I am now 1.5 years into my masters and counting, I sit at my desk waiting for the pandemic to ease and Elon to announce competition again. The true potential of a **genetically optimized induction motor hybrid modelling software** written in **Python** has yet to be experienced by uWinLoop's competitors as we cruise into the opportunity to meet Elon once again. 
 
 # Side Projects
 
