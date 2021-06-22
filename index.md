@@ -80,6 +80,3 @@ While competition was exhilirating and we put our city on the map, I was hungry 
 # Side Projects
 
 ## Python Pathfinding Algorithm [Repo Link](https://github.com/MichaelThamm/Python-Pathfinding)
-
-## Zombies Game [Repo Link]()
-
