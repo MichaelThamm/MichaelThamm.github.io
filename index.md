@@ -1,4 +1,5 @@
 # [Resume Link](https://github.com/MichaelThamm/MichaelThamm.github.io/blob/305c9a76e4e17ed7f95d45416e7c3c2cf64183e7/Resume_MikeThamm.docx)
+# [LinkedIn Link](https://www.linkedin.com/in/michael-thamm-a0b127134/)
 
 _Please read my resume for a condensed version of my experience and the associated timelines_
 
@@ -9,6 +10,8 @@ _This github page is intended to expand on my experiences and provide insight in
 ## Brave Control Solutions [Website Link](https://www.bravecs.com/)
 
 ### What Is Automated Construction?
+
+[LinkedIn Project Summary](https://www.linkedin.com/posts/brave-control-solutions_transforming-the-construction-industry-abb-activity-6811664821377998848-r5mn)
 
 **“We at Brave are committed to continue to work with our partners and offer innovative solutions through automation”. [1]**
 
