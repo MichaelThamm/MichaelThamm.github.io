@@ -1,5 +1,9 @@
 # [Resume Link](https://github.com/MichaelThamm/MichaelThamm.github.io/blob/305c9a76e4e17ed7f95d45416e7c3c2cf64183e7/Resume_MikeThamm.docx)
 
+_Please read my resume for a condensed version of my experience and the associated timelines_
+
+_This github page is intended to expand on my experiences and provide insight into who I am as a professional engineer_
+
 # Work Experience
 
 ## Brave Control Solutions [Website Link](https://www.bravecs.com/)
@@ -14,9 +18,14 @@ This is a common theme at Brave where it is our company culture to explore the d
 
 *[1] - “WINNER - Innovative Solution Award by ABB.” BRAVE CONTROL SOLUTIONS INC. AWARDED FOR 2020 THE MOST INNOVATIVE SOLUTION BY ABB., Brave Control Solutions, 9 Dec. 2020, [www.bravecs.com/2020/12/innovative-solution-award-by-abb/](www.bravecs.com/2020/12/innovative-solution-award-by-abb/).*
 
+This branch of work at Brave includes contract work for companies:
+
+* [Intelligent City](https://intelligent-city.com/)
+* [Z Modular](https://www.z-modular.com/)
+
 ### ABB-RobotStudio v2021 & Siemens TIA Portal v15.1
 
-The foundation of a successful project is its programming and this project harmonized the robot world and PLC domain. With the PLC acting as the brains of the operation, accounting for the machine's spatial awareness, it puppeteers its robot army to assemble and weld the chassis one building block at a time. This even required me to **teach ABB robots while elevated on mobile elevated work platform (MEWP) 20' in the air**.
+The foundation of a successful project is its programming and this project harmonized the robot world and PLC domain. With the PLC acting as the brains of the operation, accounting for the machine's spatial awareness, it puppeteers its robot army to assemble and weld the chassis one building block at a time. I was responsible for **programming functions that contributes to the orginization, cyclic function call**. This project even required me to **teach ABB robots while elevated on mobile elevated work platform (MEWP) 20' in the air**.
 
 ### FARO BuildIT Metrology v2021
 
@@ -31,8 +40,6 @@ Due to the nature of construction at scale there was an apparent need for GD&T (
 _"The CHARGE Lab, under the leadership of its founder Professor Narayan C. Kar, who is a Tier 1 Canada Research Chair in Electrified Vehicles, is an internationally recognized R&D, component and system design and test centre that fosters cross-disciplinary research collaboration among materials, mechanical, electrical and software engineers."_
 
 ## We Are uWinLoop [Website Link](https://www.uwinloop.ca/)
-
-[Pictures](https://github.com/MichaelThamm/SpaceX-HyperloopCompetition/blob/gh-pages/Pics.rar)
 
 3 years into university I found a team of inspired engineering students studying at University of Windsor, ON, Canada. As an electrical & computer engineering student, I was excited to connect with fellow students from various departments. We had a common goal; to qualify for the **SpaceX-Hyperloop** competition in LA, California and meet **Elon Musk** (the founder of the competition).
 
