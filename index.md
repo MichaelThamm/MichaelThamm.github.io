@@ -79,5 +79,5 @@ LA, California provided 2 weeks of stress while grinding out hours in our AirBnB
 
 # Side Projects
 
-## Seting up a VSCode environment to start coding all the way to build .exe file [Repo Link](https://github.com/MichaelThamm/Coding)
+## Seting up a VSCode environment to start coding all the way to build .exe file [Repo Link](https://github.com/MichaelThamm/Coding/blob/main/C%2B%2B.zip)
 ## Python Pathfinding Algorithm [Repo Link](https://github.com/MichaelThamm/Python-Pathfinding)
