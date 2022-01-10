@@ -19,32 +19,37 @@ _This github page is intended to expand on my experiences and provide insight in
 
 # Work Experience
 
-## Brave Control Solutions [Website Link](https://www.bravecs.com/)
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Brave Control Solutions [Website Link](https://www.bravecs.com/)
 
-### What Is Automated Construction?
+  ### What Is Automated Construction?
 
-[LinkedIn Project Summary](https://www.linkedin.com/posts/brave-control-solutions_transforming-the-construction-industry-abb-activity-6811664821377998848-r5mn)
+  [LinkedIn Project Summary](https://www.linkedin.com/posts/brave-control-solutions_transforming-the-construction-industry-abb-activity-6811664821377998848-r5mn)
 
-**“We at Brave are committed to continue to work with our partners and offer innovative solutions through automation”. [1]**
+  **“We at Brave are committed to continue to work with our partners and offer innovative solutions through automation”. [1]**
 
-**"...it means a lot to all the parties involved that had the courage to try to do something that nobody else in the industry has done before”. [1]**
+  **"...it means a lot to all the parties involved that had the courage to try to do something that nobody else in the industry has done before”. [1]**
 
-This is a common theme at Brave where it is our company culture to explore the depths of innovation. Construction proved to be a market that was hungry for automated solutions, already widely adapted in the automotive industry. Being a highly labour intensive industry that requires much human interaction due to the variability between the design and assembly of builds, a solution can be hard to achieve. Ready to embrace the chaos, our team of engineers set out to **do something that nobody else in the industry has done before**.
+  This is a common theme at Brave where it is our company culture to explore the depths of innovation. Construction proved to be a market that was hungry for automated solutions, already widely adapted in the automotive industry. Being a highly labour intensive industry that requires much human interaction due to the variability between the design and assembly of builds, a solution can be hard to achieve. Ready to embrace the chaos, our team of engineers set out to **do something that nobody else in the industry has done before**.
 
-*[1] - “WINNER - Innovative Solution Award by ABB.” BRAVE CONTROL SOLUTIONS INC. AWARDED FOR 2020 THE MOST INNOVATIVE SOLUTION BY ABB., Brave Control Solutions, 9 Dec. 2020, [www.bravecs.com/2020/12/innovative-solution-award-by-abb/](www.bravecs.com/2020/12/innovative-solution-award-by-abb/).*
+  *[1] - “WINNER - Innovative Solution Award by ABB.” BRAVE CONTROL SOLUTIONS INC. AWARDED FOR 2020 THE MOST INNOVATIVE SOLUTION BY ABB., Brave Control Solutions, 9 Dec. 2020, [www.bravecs.com/2020/12/innovative-solution-award-by-abb/](www.bravecs.com/2020/12/innovative-solution-award-by-abb/).*
 
-This branch of work at Brave includes contract work for companies:
+  This branch of work at Brave includes contract work for companies:
 
-* [Intelligent City](https://intelligent-city.com/)
-* [Z Modular](https://www.z-modular.com/)
+  * [Intelligent City](https://intelligent-city.com/)
+  * [Z Modular](https://www.z-modular.com/)
 
-### ABB-RobotStudio v2021 & Siemens TIA Portal v15.1
+  ### ABB-RobotStudio v2021 & Siemens TIA Portal v15.1
 
-The foundation of a successful project is its programming and this project harmonized the robot world and PLC domain. With the PLC acting as the brains of the operation, accounting for the machine's spatial awareness, it puppeteers its robot army to assemble and weld the chassis one building block at a time. I was responsible for **programming functions that contributes to the orginization, cyclic function call**. This project even required me to **teach ABB robots while elevated on mobile elevated work platform (MEWP) 20' in the air**.
+  The foundation of a successful project is its programming and this project harmonized the robot world and PLC domain. With the PLC acting as the brains of the operation, accounting for the machine's spatial awareness, it puppeteers its robot army to assemble and weld the chassis one building block at a time. I was responsible for **programming functions that contributes to the orginization, cyclic function call**. This project even required me to **teach ABB robots while elevated on mobile elevated work platform (MEWP) 20' in the air**.
 
-### FARO BuildIT Metrology v2021
+  ### FARO BuildIT Metrology v2021
 
-Due to the nature of construction at scale there was an apparent need for GD&T (dimensioning and tolerance). A machine that is required to automate the process of producing room-sized lego blocks must do so accurately. The machine tolerance was set at **+-1/4 mm across 20 m** which is where the FARO laser ARM and BuildIT Metrology software applied. This part of the project was piloted by yours truly.
+  Due to the nature of construction at scale there was an apparent need for GD&T (dimensioning and tolerance). A machine that is required to automate the process of producing room-sized lego blocks must do so accurately. The machine tolerance was set at **+-1/4 mm across 20 m** which is where the FARO laser ARM and BuildIT Metrology software applied. This part of the project was piloted by yours truly.
+  
+ </details>
 
 # School Experience
 
