@@ -1,4 +1,3 @@
-
 # [Resume Link](https://github.com/MichaelThamm/MichaelThamm.github.io/blob/main/MichaelThamm-Resume.pdf)
 # [LinkedIn Link](https://www.linkedin.com/in/michael-thamm-a0b127134/)
 
