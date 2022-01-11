@@ -1,9 +1,6 @@
-<p align="center">
-  
+
 # [Resume Link](https://github.com/MichaelThamm/MichaelThamm.github.io/blob/main/MichaelThamm-Resume.pdf)
 # [LinkedIn Link](https://www.linkedin.com/in/michael-thamm-a0b127134/)
-  
-</p>
 
 _Please read my resume for a condensed version of my experience and the associated timelines_
 
@@ -110,3 +107,5 @@ _This github page is intended to expand on my experiences and provide insight in
   [Java BootCamp](https://java-programming.mooc.fi/)
   
 </details>
+
+
