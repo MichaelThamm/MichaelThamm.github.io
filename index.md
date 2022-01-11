@@ -55,6 +55,7 @@ _This github page is intended to expand on my experiences and provide insight in
 
 <details>
   <summary>Click to expand!</summary>
+  
   ## Charge Labs [Website Link](https://chargelabs.ca/)
 
   _"The CHARGE Lab, under the leadership of its founder Professor Narayan C. Kar, who is a Tier 1 Canada Research Chair in Electrified Vehicles, is an internationally recognized R&D, component and system design and test centre that fosters cross-disciplinary research collaboration among materials, mechanical, electrical and software engineers."_
