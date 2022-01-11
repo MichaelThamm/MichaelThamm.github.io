@@ -3,7 +3,7 @@
 
 _Please read my resume for a condensed version of my experience and the associated timelines_
 
-_This github page is intended to expand on my experiences and provide insight into who I am as a professional engineer_
+_This github page is intended to expand on my experiences and provide insight into who I am as a professional engineer / software developer_
 
 # Work Experience
 
