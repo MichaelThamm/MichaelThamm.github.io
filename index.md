@@ -48,7 +48,7 @@ _This github page is intended to expand on my experiences and provide insight in
 
   _"The CHARGE Lab, under the leadership of its founder Professor Narayan C. Kar, who is a Tier 1 Canada Research Chair in Electrified Vehicles, is an internationally recognized R&D, component and system design and test centre that fosters cross-disciplinary research collaboration among materials, mechanical, electrical and software engineers."_
 
-  I am an active member of the research team at Charge Labs, pushing the envelope of EV research. My work includes evolutionairy algorithms, induction motor design, and motor performance testing. My contributions can be found 
+  I am an active member of the research team at Charge Labs, pushing the envelope of EV research. My work includes evolutionairy algorithms, induction motor design, and motor performance testing. My contributions can be found here:
 
   ### Journey To MaSc [Repo Link](https://github.com/MichaelThamm/MaSc-LinearInductionMotorGeneticOptimization)
 
@@ -89,10 +89,20 @@ _This github page is intended to expand on my experiences and provide insight in
 
 # Side Projects
 
-## Python, Java, C++ [Repo Link](https://github.com/MichaelThamm/Coding)
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Python, Java, C++ [Repo Link](https://github.com/MichaelThamm/Coding)
+  
+</details>
 
 # Courses
 
-## Java Course
-
-[Java BootCamp](https://java-programming.mooc.fi/)
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Java Course
+  
+  [Java BootCamp](https://java-programming.mooc.fi/)
+  
+</details>
