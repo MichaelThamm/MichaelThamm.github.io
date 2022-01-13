@@ -92,7 +92,12 @@ _This github page is intended to expand on my experiences and provide insight in
 <details>
   <summary>Click to expand!</summary>
   
-  ## Python, Java, C++ [Repo Link](https://github.com/MichaelThamm/Coding)
+  ## Python
+  ### [LetsGo-Phishing](https://github.com/MichaelThamm/LetsGo-Phishing)
+  ### [PlayingWith-Pandas](https://github.com/MichaelThamm/PlayingWith-Pandas)
+  
+  ## C++
+  ### [LanguageInterpreter-NeuralNetwork](https://github.com/MichaelThamm/LanguageInterpreter-NeuralNetwork)
   
 </details>
 
