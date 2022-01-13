@@ -96,6 +96,8 @@ _This github page is intended to expand on my experiences and provide insight in
   ### [LetsGo-Phishing](https://github.com/MichaelThamm/LetsGo-Phishing)
   ### [PlayingWith-Pandas](https://github.com/MichaelThamm/PlayingWith-Pandas)
   
+  <p>&nbsp;</p>
+  
   ## C++
   ### [LanguageInterpreter-NeuralNetwork](https://github.com/MichaelThamm/LanguageInterpreter-NeuralNetwork)
   
