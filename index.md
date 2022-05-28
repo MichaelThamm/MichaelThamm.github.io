@@ -1,4 +1,4 @@
-# [Resume](https://github.com/MichaelThamm/MichaelThamm.github.io/blob/main/MichaelThamm-Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/michael-thamm-a0b127134/)
+# [Resume](https://github.com/MichaelThamm/MichaelThamm.github.io/blob/main/GitHub-MichaelThamm-CV.pdf) | [LinkedIn](https://www.linkedin.com/in/michael-thamm-a0b127134/)
 
 _Please read my resume for a condensed version of my experience and the associated timelines_
 
