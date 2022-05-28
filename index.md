@@ -61,7 +61,7 @@ _Due to intellectual property I cannot share the full contents of my program. Ho
 
 The true potential of a **genetically optimized induction motor hybrid modelling software** written in **Python** has yet to be experienced in the motor research community.
 
-## We Are [uWinLoop](https://www.uwinloop.ca/)
+## We Are uWinLoop
 
 3 years into university I found a team of inspired engineering students studying at University of Windsor, ON, Canada. As an electrical & computer engineering student, I was excited to connect with fellow students from various departments. We had a common goal; to qualify for the **SpaceX-Hyperloop** competition in LA, California and meet **Elon Musk** (the founder of the competition).
 
