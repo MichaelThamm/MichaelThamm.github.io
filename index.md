@@ -27,7 +27,7 @@ Kinarm being a small business with global influence, everyone was required to "w
 
 This is a common theme at Brave where it is our company culture to explore the depths of innovation. Construction proved to be a market that was hungry for automated solutions, already widely adapted in the automotive industry. Being a highly labour intensive industry that requires much human interaction due to the variability between the design and assembly of builds, a solution can be hard to achieve. Ready to embrace the chaos, our team of engineers set out to **do something that nobody else in the industry has done before**.
 
-*[1] - “WINNER - Innovative Solution Award by ABB.” BRAVE CONTROL SOLUTIONS INC. AWARDED FOR 2020 THE MOST INNOVATIVE SOLUTION BY ABB., Brave Control Solutions, 9 Dec. 2020, [Award Description](www.bravecs.com/2020/12/innovative-solution-award-by-abb/).*
+*[1] - “WINNER - Innovative Solution Award by ABB.” BRAVE CONTROL SOLUTIONS INC. AWARDED FOR 2020 THE MOST INNOVATIVE SOLUTION BY ABB., Brave Control Solutions, 9 Dec. 2020.* [Award Description](https://www.bravecs.com/2020/12/innovative-solution-award-by-abb/)
 
 This branch of work at Brave includes contract work for companies:
 
