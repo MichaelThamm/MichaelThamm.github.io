@@ -6,9 +6,6 @@ _This github page is intended to expand on my experiences and provide insight in
 
 # Side Projects
 
-<details>
-<summary>Click to expand!</summary>
-
 ## Python :snake:
 ### [Optimization-CaseStudy](https://github.com/MichaelThamm/Optimization-CaseStudy)
 ### [LetsGo-Phishing](https://github.com/MichaelThamm/LetsGo-Phishing)
@@ -17,12 +14,7 @@ _This github page is intended to expand on my experiences and provide insight in
 ## C++
 ### [LanguageInterpreter-NeuralNetwork](https://github.com/MichaelThamm/LanguageInterpreter-NeuralNetwork)
 
-</details>
-
 # Work Experience
-
-<details>
-<summary>Click to expand!</summary>
 
 ## [Kinarm](https://kinarm.com/)
   
@@ -57,12 +49,7 @@ The foundation of a successful project is its programming and this project harmo
 
 Due to the nature of construction at scale there was an apparent need for GD&T (dimensioning and tolerance). A machine that is required to automate the process of producing room-sized lego blocks must do so accurately. The machine tolerance was set at **+-1/4 mm across 20 m** which is where the FARO laser ARM and BuildIT Metrology software applied. This part of the project was piloted by yours truly.
 
-</details>
-
 # School Experience
-
-<details>
-<summary>Click to expand!</summary>
   
 ## [Charge Labs](https://chargelabs.ca/) :car:
 
@@ -105,18 +92,11 @@ The final step before acceptance into the top 21 required a 2 hour interview/pre
 
 LA, California provided 2 weeks of stress while grinding out hours in our AirBnB, working on last minute pod fixes. I am truly grateful to share this competition with teams across the world that travelled from **India, Germany, Canada, USA, Switzerland, Spain, Netherlands** to name a few. We did not place top 5 but we got to shake hands with Elon Musk and that is something I am truly grateful for.
 
-</details>
-
 # Courses
-
-<details>
-<summary>Click to expand!</summary>
 
 ## Java Course :coffee:
 
 [Java BootCamp](https://java-programming.mooc.fi/)
-  
-</details>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
