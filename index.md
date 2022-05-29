@@ -4,6 +4,21 @@ _Please read my resume for a condensed version of my experience and the associat
 
 _This github page is intended to expand on my experiences and provide insight into who I am as a professional engineer / software developer_
 
+# Side Projects
+
+<details>
+<summary>Click to expand!</summary>
+
+## Python :snake:
+### [Optimization-CaseStudy](https://github.com/MichaelThamm/Optimization-CaseStudy)
+### [LetsGo-Phishing](https://github.com/MichaelThamm/LetsGo-Phishing)
+### [PlayingWith-Pandas](https://github.com/MichaelThamm/PlayingWith-Pandas)
+
+## C++
+### [LanguageInterpreter-NeuralNetwork](https://github.com/MichaelThamm/LanguageInterpreter-NeuralNetwork)
+
+</details>
+
 # Work Experience
 
 <details>
@@ -89,21 +104,6 @@ The final step before acceptance into the top 21 required a 2 hour interview/pre
 ## California
 
 LA, California provided 2 weeks of stress while grinding out hours in our AirBnB, working on last minute pod fixes. I am truly grateful to share this competition with teams across the world that travelled from **India, Germany, Canada, USA, Switzerland, Spain, Netherlands** to name a few. We did not place top 5 but we got to shake hands with Elon Musk and that is something I am truly grateful for.
-
-</details>
-  
-# Side Projects
-
-<details>
-<summary>Click to expand!</summary>
-
-## Python :snake:
-### [Optimization-CaseStudy](https://github.com/MichaelThamm/Optimization-CaseStudy)
-### [LetsGo-Phishing](https://github.com/MichaelThamm/LetsGo-Phishing)
-### [PlayingWith-Pandas](https://github.com/MichaelThamm/PlayingWith-Pandas)
-
-## C++
-### [LanguageInterpreter-NeuralNetwork](https://github.com/MichaelThamm/LanguageInterpreter-NeuralNetwork)
 
 </details>
 
