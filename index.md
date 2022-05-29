@@ -98,6 +98,7 @@ LA, California provided 2 weeks of stress while grinding out hours in our AirBnB
 <summary>Click to expand!</summary>
 
 ## Python :snake:
+### [Optimization-CaseStudy](https://github.com/MichaelThamm/Optimization-CaseStudy)
 ### [LetsGo-Phishing](https://github.com/MichaelThamm/LetsGo-Phishing)
 ### [PlayingWith-Pandas](https://github.com/MichaelThamm/PlayingWith-Pandas)
 
