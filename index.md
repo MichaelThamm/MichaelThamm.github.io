@@ -48,7 +48,7 @@ Due to the nature of construction at scale there was an apparent need for GD&T (
 
 <details>
 <summary>Click to expand!</summary>
-
+  
 ## [Charge Labs](https://chargelabs.ca/) :car:
 
 _"The CHARGE Lab, under the leadership of its founder Professor Narayan C. Kar, who is a Tier 1 Canada Research Chair in Electrified Vehicles, is an internationally recognized R&D, component and system design and test centre that fosters cross-disciplinary research collaboration among materials, mechanical, electrical and software engineers."_
@@ -91,7 +91,7 @@ The final step before acceptance into the top 21 required a 2 hour interview/pre
 LA, California provided 2 weeks of stress while grinding out hours in our AirBnB, working on last minute pod fixes. I am truly grateful to share this competition with teams across the world that travelled from **India, Germany, Canada, USA, Switzerland, Spain, Netherlands** to name a few. We did not place top 5 but we got to shake hands with Elon Musk and that is something I am truly grateful for.
 
 </details>
-
+  
 # Side Projects
 
 <details>
@@ -101,8 +101,6 @@ LA, California provided 2 weeks of stress while grinding out hours in our AirBnB
 ### [Optimization-CaseStudy](https://github.com/MichaelThamm/Optimization-CaseStudy)
 ### [LetsGo-Phishing](https://github.com/MichaelThamm/LetsGo-Phishing)
 ### [PlayingWith-Pandas](https://github.com/MichaelThamm/PlayingWith-Pandas)
-
-<p>&nbsp;</p>
 
 ## C++
 ### [LanguageInterpreter-NeuralNetwork](https://github.com/MichaelThamm/LanguageInterpreter-NeuralNetwork)
@@ -117,7 +115,7 @@ LA, California provided 2 weeks of stress while grinding out hours in our AirBnB
 ## Java Course :coffee:
 
 [Java BootCamp](https://java-programming.mooc.fi/)
-
+  
 </details>
 
 <p>&nbsp;</p>
