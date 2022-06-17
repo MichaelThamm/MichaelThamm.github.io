@@ -7,6 +7,7 @@ _This github page is intended to expand on my experiences and provide insight in
 # Side Projects
 
 ## Python :snake:
+### [Masters](https://github.com/MichaelThamm/Masters)
 ### [Optimization-CaseStudy](https://github.com/MichaelThamm/Optimization-CaseStudy)
 ### [LetsGo-Phishing](https://github.com/MichaelThamm/LetsGo-Phishing)
 ### [PlayingWith-Pandas](https://github.com/MichaelThamm/PlayingWith-Pandas)
